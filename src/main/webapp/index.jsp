@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>welcome to git training</h2>
+<marquee>welcome to git training</marquee>
 </body>
 </html>
